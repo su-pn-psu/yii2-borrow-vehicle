@@ -20,7 +20,8 @@
         "su-pn-psu/yii2-core": "dev-master",
         "kartik-v/yii2-grid": "@dev",
         "kartik-v/yii2-date-range": "dev-master",
-        "kartik-v/yii2-mpdf": "dev-master"
+        "kartik-v/yii2-mpdf": "dev-master",
+        "kartik-v/yii2-field-range" "dev-master"
     },
     "autoload": {
         "psr-4": {
